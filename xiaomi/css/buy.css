@@ -1,0 +1,67 @@
+body {
+    font: 14px/1.5 Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+    color: #333;
+    background-color: #fff;
+    min-width: 1226px;
+}
+
+.glass{
+    width: 1226px;
+    height: 980px;
+    margin: auto;
+}
+.img-left{
+    width: 600px;
+    height: 600px;
+    position: relative;
+    padding: 0;
+    margin: 0;
+    /*border: 2px solid rgba(27, 26, 26, 0.6);*/
+    float: left;
+    z-index:2;
+}
+.img-left img{
+    width: 600px;
+    height: 600px;
+    position: relative;
+    z-index:2;
+}
+.img-big{
+    width: 600px;
+    height: 600px;
+    position: relative;
+    overflow: hidden;
+    left: 5px;
+    display: none;
+    border: 1px solid rgba(27, 26, 26, 0.6);
+    float: left;
+    z-index:2;
+}
+.img-big img{
+    width: 1200px;
+    height: 1200px;
+    position: absolute;
+    overflow: hidden;
+    z-index:2;
+}
+.shadow{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 300px;
+    height: 300px;
+    background-color: #fff;
+    opacity: .4;
+    display: none;
+    z-index: 1000;
+}
+.product-con{
+    width: 580px;
+    height: 920px;
+    position: relative;
+    left: 600px;
+    z-index:1;
+    background-image: url("../img/buy3.png");
+    background-size: cover;
+
+}

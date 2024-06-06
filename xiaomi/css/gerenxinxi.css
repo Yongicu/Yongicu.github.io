@@ -1,0 +1,40 @@
+.gerenxinxi{
+    background-color: #f8f7f7dc;
+    padding: 30px;
+    text-align: center;
+    padding-bottom: 60px;
+}
+.gerenxinxi p{
+    font-size: 36px;
+    font-family: "幼圆";
+    font-weight: 900;
+}
+.gerenxinxi input{
+    background-color: #fff;
+    width: 50%;
+    height: 38px;
+    margin-top: 10px ;
+    margin-bottom: 10px;
+    border: none;
+    font-size: 22px;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.gerenxinxi button{
+    margin-top: 35px;
+    width: 200px;
+    height: 50px;
+    font-size: 24px;
+    border:none;
+    background-color: #f37e1f;
+    color: #fff;
+    border-radius: 20px;
+}
+.gerenxinxi button:hover{
+    background-color: #fa8232;
+}
+.prompt{
+    color: #e43912;
+}
