@@ -1,0 +1,53 @@
+.zi-top{
+    width: 100%;
+    height: 100px;
+}
+.ziti{
+    padding-top: 20px;
+}
+.zi-left1{
+   font-size: 20px;
+   color: #333;
+   float: left;
+   padding-top: 10px;
+}
+.zi-left2{
+    float: right;
+    text-decoration : none;
+    color: #424242;
+    font-size: 21px;
+    margin: 0px;
+    padding-top: 15px;
+    font-family: "黑体";
+    font-weight: bolder;
+}
+.zi-left2:hover{
+    color: #ff6700;
+}
+.zi-right{
+    float: right;
+}
+.zi-right li{
+    float: left;
+    list-style: none;
+    margin-left: 10px;
+}
+.zi-right a{
+    text-decoration : none;
+    color: #757575;
+    font-size: 16px;
+}
+.zi-right span{
+    color: #acacac;
+    font-size: 16px;
+}
+.zi-right a:hover{
+    color: #ff6700;
+}
+.tupian{
+    margin: 0px;
+    padding: 0px;
+}
+.tupian img{
+    width: 100%;
+}

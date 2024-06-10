@@ -1,0 +1,142 @@
+body{
+	overflow: hidden;
+	text-align: center;
+}
+button{
+	border-radius: 5px;
+}
+.car{
+	width:1226px;
+	border: 2px solid #ff6700;
+	margin: 0 auto;
+	text-align: center;
+	border-radius: 20px;
+}
+.zi-left3{
+	float: left;
+	top: 50px;
+	color: #616161;
+}
+.car .good{
+	/*background-color: #f56709;*/
+	height:55px;
+	font-size: 22px;
+	color:#333333;
+	font-family: "黑体";
+	line-height: 55px;
+	font-weight: 200;
+	margin-bottom: 20px;
+}
+.car .good table{
+	width:100%;
+	border-bottom: 2px solid #ff6700;
+}
+.car .goods{
+	height:45px;
+	line-height: 45px;
+	font-size: 20px;
+	font-weight: 200;
+	margin-bottom: 20px;
+}
+.car .goods table{
+	width:100%;
+}
+.check{
+
+}
+
+.car .goods table .btn1{
+	width: 70px;
+	height:28px;
+	border: 2px solid #ff6700;
+	background-color: white;
+	color: #ff6700;
+	font-weight: 600;
+}
+.car .goods table button:hover{
+	background-color: #ff6700;
+	color: white;
+}
+.car .good input{
+	width: 30px;
+	height: 20px;
+	font-size: 20px;
+	text-align: center;
+}
+.car .goods a{
+	width: 38px;
+	height: 38px;
+	color: #1f0e01;
+	font-size: 30px;
+	text-decoration:none;
+}
+.car .goods input{
+	width: 30px;
+	height: 25px;
+	font-size: 20px;
+	text-align: center;
+}
+.car .goods1{
+	margin-top: 10px;
+
+	background-color:#fff;
+	height:50px;
+	font-size: 19px;
+	color:white;
+	line-height: 50px;
+	font-weight: 200;
+	margin-bottom: 20px;
+}
+.car .goods2{
+	border-top: 2px solid #ff6700;
+	height:50px;
+	font-size: 19px;
+	line-height: 50px;
+	font-weight: 200;
+	border-radius:0 0 10px 10px ;
+
+}
+#totalNum{
+	color:#ff6700 ;
+	font-size: 24px;
+	font-family: Arial;
+}
+#totalPrice{
+	color:#ff6700 ;
+	font-size: 30px;
+	font-family: Arial;
+}
+.singlePriceTotal{
+	color:#ff6700 ;
+	font-size: 24px;
+	font-family: Arial;
+}
+.car .goods1 table{
+	width:100%;
+}
+.car .goods1 .btn2{
+	width: 80px;
+	height:35px;
+	border: 2px solid #ff6700;
+	background-color: white;
+	color: #ff6700;
+	border-radius: 4px;
+	font-weight: 600;
+}
+.car .goods1 .btn2:hover{
+	color:white;
+	background-color: #ff6700;
+}
+.car .goods1 .btn3{
+	width: 80px;
+	height:35px;
+	border: 2px solid #ff6700;
+	background-color: white;
+	color: #ff6700;
+	border-radius: 4px;
+	font-weight: 600;
+}
+.car .goods1 .btn3:hover{
+	color:white;
+	background-color:#ff6700 ;
+}
